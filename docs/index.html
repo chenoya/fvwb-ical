@@ -53,7 +53,7 @@
 </div>
 
 <div class="row g-3 my-2 mx-1">
-    <a id="subscribe" class="btn btn-primary" onmouseover="javascript:event.target.port=8080">Souscrire au calendrier</a>
+    <a id="subscribe" class="btn btn-primary">Souscrire au calendrier</a>
 </div>
 
 <div class="row g-3 my-4 mx-1 text-center">
@@ -133,10 +133,7 @@
         let prov = document.getElementById("prov").value;
         let level = document.getElementById("level").value;
 
-        let link = new URL(mapping[year][prov][level][team], document.baseURI).href;
-        link = link.replace("https://", "webcal://");
-        link = link.replace("http://", "webcal://");
-
+        let link = "webcal://github.com/chenoya/fvwb-ical/raw/refs/heads/main/docs" + mapping[year][prov][level][team];
         document.getElementById("subscribe").href = link;
     }
 
