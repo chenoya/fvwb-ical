@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//chenoya//FVWB//FR
+METHOD:PUBLISH
+NAME:Namur - Coupe de la Province de Namur Albert Daffe  Messieurs - Le Rou
+ x V.C. A
+X-WR-CALNAME:Namur - Coupe de la Province de Namur Albert Daffe  Messieurs 
+ - Le Roux V.C. A
+X-APPLE-CALENDAR-COLOR:#23BEFC
+BEGIN:VEVENT
+SUMMARY:Coupe M - Le Roux V.C. A - Tellinam V.C. A
+DTSTART:20241026T180000Z
+DTEND:20241026T200000Z
+UID:e0dca57f-61d4-3dc8-b371-0d3cdb479b5d
+DTSTAMP:20240831T220000Z
+END:VEVENT
+END:VCALENDAR

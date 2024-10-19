@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//chenoya//FVWB//FR
+METHOD:PUBLISH
+NAME:Namur - Coupe de la Province de Namur Albert Daffe  Messieurs - Ciney 
+ V.C. B
+X-WR-CALNAME:Namur - Coupe de la Province de Namur Albert Daffe  Messieurs 
+ - Ciney V.C. B
+X-APPLE-CALENDAR-COLOR:#23BEFC
+BEGIN:VEVENT
+SUMMARY:Coupe M - Ciney V.C. B - Doische V. Fagnard A
+DTSTART:20241026T133000Z
+DTEND:20241026T153000Z
+UID:2af99690-7e7a-3e63-9538-00a52d86f6db
+DTSTAMP:20240831T220000Z
+END:VEVENT
+END:VCALENDAR

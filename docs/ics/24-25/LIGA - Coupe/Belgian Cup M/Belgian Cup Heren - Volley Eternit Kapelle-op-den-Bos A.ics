@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//chenoya//FVWB//FR
+METHOD:PUBLISH
+NAME:Belgian Cup Heren - Volley Eternit Kapelle-op-den-Bos A
+X-WR-CALNAME:Belgian Cup Heren - Volley Eternit Kapelle-op-den-Bos A
+X-APPLE-CALENDAR-COLOR:#23BEFC
+BEGIN:VEVENT
+SUMMARY:Belgian Cup M - Volley Eternit Kapelle-op-den-Bos A - Knack Roesela
+ re B
+DTSTART:20240824T183000Z
+DTEND:20240824T203000Z
+UID:fdf88fbb-3021-3613-9410-a295b4c2c4ed
+DTSTAMP:20240831T220000Z
+END:VEVENT
+END:VCALENDAR

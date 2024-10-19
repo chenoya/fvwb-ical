@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//chenoya//FVWB//FR
+METHOD:PUBLISH
+NAME:Interfederale Beker Dames - Soignies Amicale V.B. A
+X-WR-CALNAME:Interfederale Beker Dames - Soignies Amicale V.B. A
+X-APPLE-CALENDAR-COLOR:#23BEFC
+BEGIN:VEVENT
+SUMMARY:Coupe Interfédérale D - Soignies Amicale V.B. A - BW Nivelles Volle
+ y A
+DTSTART:20240906T220000Z
+DTEND:20240907T000000Z
+UID:98cd879a-ac2f-32f3-b2ee-2b8e9c1fffb4
+DTSTAMP:20240831T220000Z
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//chenoya//FVWB//FR
+METHOD:PUBLISH
+NAME:Namur - Coupe de la Province de Namur Albert Daffe Dames - The Dragonf
+ lies V.C Profondeville B
+X-WR-CALNAME:Namur - Coupe de la Province de Namur Albert Daffe Dames - The 
+ Dragonflies V.C Profondeville B
+X-APPLE-CALENDAR-COLOR:#23BEFC
+BEGIN:VEVENT
+SUMMARY:Coupe D - Volley Ohey E - The Dragonflies V.C Profondeville B
+DTSTART:20240907T120000Z
+DTEND:20240907T140000Z
+UID:ad6e8a7d-2eff-3765-8e1a-0acf662e8edc
+DTSTAMP:20240831T220000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Coupe D - The Dragonflies V.C Profondeville B - Ciney V.C. E
+DTSTART:20240907T133000Z
+DTEND:20240907T153000Z
+UID:edb380e1-02ef-3015-9430-f601590bd1a6
+DTSTAMP:20240831T220000Z
+END:VEVENT
+END:VCALENDAR

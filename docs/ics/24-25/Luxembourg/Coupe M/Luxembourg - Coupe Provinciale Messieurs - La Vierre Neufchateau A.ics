@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//chenoya//FVWB//FR
+METHOD:PUBLISH
+NAME:Luxembourg - Coupe Provinciale Messieurs - La Vierre Neufchateau A
+X-WR-CALNAME:Luxembourg - Coupe Provinciale Messieurs - La Vierre Neufchate
+ au A
+X-APPLE-CALENDAR-COLOR:#23BEFC
+BEGIN:VEVENT
+SUMMARY:Coupe M - La Vierre Neufchateau A - Arlon Volley-Ball A
+DTSTART:20241020T110000Z
+DTEND:20241020T130000Z
+UID:f64cddc6-98af-3386-8a26-0c50a19b7fb4
+DTSTAMP:20240831T220000Z
+END:VEVENT
+END:VCALENDAR

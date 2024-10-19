@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//chenoya//FVWB//FR
+METHOD:PUBLISH
+NAME:Belgian Cup Heren - Koninklijke Volleybalclub Zoersel A
+X-WR-CALNAME:Belgian Cup Heren - Koninklijke Volleybalclub Zoersel A
+X-APPLE-CALENDAR-COLOR:#23BEFC
+BEGIN:VEVENT
+SUMMARY:Belgian Cup M - Koninklijke Volleybalclub Zoersel A - KVC Lensonlin
+ e Genk A
+DTSTART:20240825T160000Z
+DTEND:20240825T180000Z
+UID:b395b155-d520-3a38-bda9-0892ab8d659a
+DTSTAMP:20240831T220000Z
+END:VEVENT
+END:VCALENDAR

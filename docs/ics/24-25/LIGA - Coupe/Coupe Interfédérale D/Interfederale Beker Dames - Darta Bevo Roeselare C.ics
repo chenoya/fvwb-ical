@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//chenoya//FVWB//FR
+METHOD:PUBLISH
+NAME:Interfederale Beker Dames - Darta Bevo Roeselare C
+X-WR-CALNAME:Interfederale Beker Dames - Darta Bevo Roeselare C
+X-APPLE-CALENDAR-COLOR:#23BEFC
+BEGIN:VEVENT
+SUMMARY:Coupe Interfédérale D - Darta Bevo Roeselare C - Damesvolley Warege
+ m A
+DTSTART:20241012T140000Z
+DTEND:20241012T160000Z
+UID:71dfd2e6-9692-3c58-9d75-1ccdd9a637be
+DTSTAMP:20240831T220000Z
+END:VEVENT
+END:VCALENDAR

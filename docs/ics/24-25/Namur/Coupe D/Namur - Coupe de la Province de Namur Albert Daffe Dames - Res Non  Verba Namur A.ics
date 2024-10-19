@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//chenoya//FVWB//FR
+METHOD:PUBLISH
+NAME:Namur - Coupe de la Province de Namur Albert Daffe Dames - Res Non  Ve
+ rba Namur A
+X-WR-CALNAME:Namur - Coupe de la Province de Namur Albert Daffe Dames - Res 
+ Non  Verba Namur A
+X-APPLE-CALENDAR-COLOR:#23BEFC
+BEGIN:VEVENT
+SUMMARY:Coupe D - Res Non  Verba Namur A - Floor F V.C. A
+DTSTART:20241026T173000Z
+DTEND:20241026T193000Z
+UID:c93b8c85-234a-3bdc-bf8d-79d6b3ab4f89
+DTSTAMP:20240831T220000Z
+END:VEVENT
+END:VCALENDAR

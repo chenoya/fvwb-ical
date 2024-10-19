@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//chenoya//FVWB//FR
+METHOD:PUBLISH
+NAME:Namur - Coupe de la Province de Namur Albert Daffe  Messieurs - Couvin 
+ U.S.V. 86 A
+X-WR-CALNAME:Namur - Coupe de la Province de Namur Albert Daffe  Messieurs 
+ - Couvin U.S.V. 86 A
+X-APPLE-CALENDAR-COLOR:#23BEFC
+BEGIN:VEVENT
+SUMMARY:Coupe M - Couvin U.S.V. 86 A - VC Lesse et Lhomme C
+DTSTART:20241026T160000Z
+DTEND:20241026T180000Z
+UID:4d9dc6e5-9df2-3f36-9f47-0e7c1b6aec3e
+DTSTAMP:20240831T220000Z
+END:VEVENT
+END:VCALENDAR

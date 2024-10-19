@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//chenoya//FVWB//FR
+METHOD:PUBLISH
+NAME:Luxembourg - Coupe Provinciale Dames - Volley Club la Marquise Habay B
+X-WR-CALNAME:Luxembourg - Coupe Provinciale Dames - Volley Club la Marquise 
+ Habay B
+X-APPLE-CALENDAR-COLOR:#23BEFC
+BEGIN:VEVENT
+SUMMARY:Coupe D - Volley Club la Marquise Habay B - Houffalize V.B.C. A
+DTSTART:20240907T080000Z
+DTEND:20240907T100000Z
+UID:18d7be5e-ef2b-3961-9625-a6e2f3331d20
+DTSTAMP:20240831T220000Z
+END:VEVENT
+END:VCALENDAR

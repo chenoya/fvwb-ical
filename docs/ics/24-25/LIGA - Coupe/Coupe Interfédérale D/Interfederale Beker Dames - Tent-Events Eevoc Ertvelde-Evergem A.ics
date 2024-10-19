@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//chenoya//FVWB//FR
+METHOD:PUBLISH
+NAME:Interfederale Beker Dames - Tent-Events Eevoc Ertvelde-Evergem A
+X-WR-CALNAME:Interfederale Beker Dames - Tent-Events Eevoc Ertvelde-Evergem A
+X-APPLE-CALENDAR-COLOR:#23BEFC
+BEGIN:VEVENT
+SUMMARY:Coupe Interfédérale D - Tent-Events Eevoc Ertvelde-Evergem A - Olvo
+ c Olen A
+DTSTART:20240907T180000Z
+DTEND:20240907T200000Z
+UID:7bd41e4f-cfbd-3582-a612-103d58bcb6ae
+DTSTAMP:20240831T220000Z
+END:VEVENT
+END:VCALENDAR

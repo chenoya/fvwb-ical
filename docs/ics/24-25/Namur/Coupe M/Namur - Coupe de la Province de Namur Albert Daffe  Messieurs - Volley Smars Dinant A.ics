@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//chenoya//FVWB//FR
+METHOD:PUBLISH
+NAME:Namur - Coupe de la Province de Namur Albert Daffe  Messieurs - Volley 
+ Smars Dinant A
+X-WR-CALNAME:Namur - Coupe de la Province de Namur Albert Daffe  Messieurs 
+ - Volley Smars Dinant A
+X-APPLE-CALENDAR-COLOR:#23BEFC
+BEGIN:VEVENT
+SUMMARY:Coupe M - Volley Smars Dinant A - Osuna Volley Beauraing B
+DTSTART:20241026T140000Z
+DTEND:20241026T160000Z
+UID:65221218-4cb7-334b-b42a-c3bc80f923a5
+DTSTAMP:20240831T220000Z
+END:VEVENT
+END:VCALENDAR

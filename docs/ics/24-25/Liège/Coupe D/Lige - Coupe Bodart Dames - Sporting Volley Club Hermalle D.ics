@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//chenoya//FVWB//FR
+METHOD:PUBLISH
+NAME:Lige - Coupe Bodart Dames - Sporting Volley Club Hermalle D
+X-WR-CALNAME:Lige - Coupe Bodart Dames - Sporting Volley Club Hermalle D
+X-APPLE-CALENDAR-COLOR:#23BEFC
+BEGIN:VEVENT
+SUMMARY:Coupe D - Sporting Volley Club Hermalle D - Remouchamps Glawenne V.
+ C. C
+DTSTART:20240908T090000Z
+DTEND:20240908T110000Z
+UID:dca83a7f-b4e3-3396-8824-f9b0bc25056e
+DTSTAMP:20240831T220000Z
+END:VEVENT
+END:VCALENDAR

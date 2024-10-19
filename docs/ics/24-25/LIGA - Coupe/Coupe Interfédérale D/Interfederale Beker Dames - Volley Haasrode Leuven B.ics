@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//chenoya//FVWB//FR
+METHOD:PUBLISH
+NAME:Interfederale Beker Dames - Volley Haasrode Leuven B
+X-WR-CALNAME:Interfederale Beker Dames - Volley Haasrode Leuven B
+X-APPLE-CALENDAR-COLOR:#23BEFC
+BEGIN:VEVENT
+SUMMARY:Coupe Interfédérale D - Volley Haasrode Leuven B - Amigos Van Pelt 
+ Sint-Antonius Zoersel B
+DTSTART:20240908T160000Z
+DTEND:20240908T180000Z
+UID:6bbc1694-f174-33c1-a1c4-e0a2fb2525ee
+DTSTAMP:20240831T220000Z
+END:VEVENT
+END:VCALENDAR

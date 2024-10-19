@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//chenoya//FVWB//FR
+METHOD:PUBLISH
+NAME:Namur - Coupe de la Province de Namur Albert Daffe  Messieurs - Volley 
+ Ohey C
+X-WR-CALNAME:Namur - Coupe de la Province de Namur Albert Daffe  Messieurs 
+ - Volley Ohey C
+X-APPLE-CALENDAR-COLOR:#23BEFC
+BEGIN:VEVENT
+SUMMARY:Coupe M - Volley Ohey C - Vsport A
+DTSTART:20240907T120000Z
+DTEND:20240907T140000Z
+UID:daf39b4c-5659-3871-bd24-8019ccb4ae8a
+DTSTAMP:20240831T220000Z
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//chenoya//FVWB//FR
+METHOD:PUBLISH
+NAME:Interfederale Beker Dames - Fixit Volley Kalmthout B
+X-WR-CALNAME:Interfederale Beker Dames - Fixit Volley Kalmthout B
+X-APPLE-CALENDAR-COLOR:#23BEFC
+BEGIN:VEVENT
+SUMMARY:Coupe Interfédérale D - Fixit Volley Kalmthout B - Servantes Volley 
+ Noorderkempen B
+DTSTART:20241009T190000Z
+DTEND:20241009T210000Z
+UID:75d991ba-2923-31e6-9ae4-8c6ff1afa772
+DTSTAMP:20240831T220000Z
+END:VEVENT
+END:VCALENDAR

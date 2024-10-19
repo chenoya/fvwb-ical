@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//chenoya//FVWB//FR
+METHOD:PUBLISH
+NAME:Interfederale Beker Heren - Volley Eternit Kapelle-op-den-Bos A
+X-WR-CALNAME:Interfederale Beker Heren - Volley Eternit Kapelle-op-den-Bos 
+ A
+X-APPLE-CALENDAR-COLOR:#23BEFC
+BEGIN:VEVENT
+SUMMARY:Coupe Interfédérale M - Volley Eternit Kapelle-op-den-Bos A - Forza 
+ Evo Volley Oudenaarde A
+DTSTART:20241013T170000Z
+DTEND:20241013T190000Z
+UID:3cec7a7d-ae8d-3bef-88df-aeae673fd5f7
+DTSTAMP:20240831T220000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Coupe Interfédérale M - Volley Eternit Kapelle-op-den-Bos A - Lizar
+ ds Lubbeek-Leuven A
+DTSTART:20241101T230000Z
+DTEND:20241102T010000Z
+UID:3f112f97-ef44-34ff-9fff-ab9201a26645
+DTSTAMP:20240831T220000Z
+END:VEVENT
+END:VCALENDAR
